@@ -14,6 +14,7 @@
   "license": "ISC",
   "homepage": "https://kaz1996.github.io/testimonials",
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.12.0",
     "clean-webpack-plugin": "^3.0.0",
     "gh-pages": "^2.2.0",
     "html-webpack-plugin": "^3.2.0",
